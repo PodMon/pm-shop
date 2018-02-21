@@ -1,0 +1,26 @@
+[{
+  "i18n": "en",
+  "ns": "reaction-swag-shop",
+  "translation": {
+    "reaction-swag-shop": {
+      "myCart": "My cart",
+      "productsWeLove": "Products We Love",
+      "weHeardYouLikeSwag": "We heard you like saffron.",
+      "youAreInTheRightPlace": "You’re in the right place.",
+      "wordOfTheDayText": "Shop your favorites on our Instagram feed.",
+      "emailAddress": "email address",
+      "emailSent": "Thank you for your message. We'll contact you as soon as possible.",
+      "catTileImageUrl": "Image URL",
+      "shopAllProducts": "Shop all products",
+      "codeInStyle": "Growing with style.",
+      "yourEverydayEssentials": "Your saffron essentials.",
+      "seeWhatYouCanDo": "Follow us on Facebook and Instagram.",
+      "about": "About",
+      "blog": "Blog",
+      "contact": "Contact",
+      "careers": "Careers",
+      "press": "Press",
+      "similar": "You might also like"
+    }
+  }
+}]
